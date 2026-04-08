@@ -59,8 +59,6 @@ iosapps.itunes.apple.com = iosapps.itunes.apple.com.download.ks-cdn.com
 # Remote Proxy 订阅链接
 # =====================================
 [Remote Proxy]
-云翼网络 = https://c-sub-sllnqamygq.cn-shanghai.fcapp.run/c/omeyt0EYpDTrKUQB,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/ikuuu.png
-微斯人，吾谁与归 = https://kejalrn7ffb572qu0jeb.fznfzn.cn/signal/channel/receiver?token=7d5f185922d81b7323b30eb10536cd73&name=微斯人，吾谁与归,parser-enabled = true,udp=true,block-quic=true,fast-open=default,vmess-aead=true,skip-cert-verify=true,enabled=true,flexible-sni=false,img-url=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/ash(1).png
 
 
 # =====================================
